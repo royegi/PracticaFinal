@@ -119,6 +119,28 @@ ul#menu li a:hover  {
     /*esto es espacio*/
     /*esto es espacio*/
     /*esto es quienessomos*/
+
+.quienessomos{
+    font-family: "Arial Narrow";
+    font-size: 115%;
+    font-weight:200%;
+    margin-left: 5%;
+    margin-right:5%;
+    text-align: justify;
+    
+}
+
+.imagenQS{
+    margin-top: 0.5%;
+    text-align: center;
+    
+}
+
+.TablaCentro{
+    align-items: center;
+    border-color:rgb(22, 73, 97); 
+    
+}
     /*esto es quienessomos*/
     /*esto es ubicacion*/
 
